@@ -1,0 +1,20 @@
+Toán,1,Bài 1: Ôn tập các số đến 100 000 (T1)
+Tiếng Việt,1,Bài 1A: Thương người như thể thương thân (T1)
+Tiếng Việt,1,Bài 1A: Thương người như thể thương thân (T2)
+Khoa học,1,Bài 1: Con người cần gì để sống?
+Âm nhạc,1,Ôn tập 3 bài hát và kí hiệu ghi nhạc đã học ở lớp3.
+GDNGLL,1,]nToán,1,Bài 2: Ôn tập các số đến 100 000 (T2)
+Tiếng Việt,1,Bài 1A: Thương người như thể thương thân (T3)
+Đạo đức,1,Bài 1: Trung thực trong học tập (T1).
+Lịch sử,1,Bài 1: Môn Lịch sử và Địa lí (T1)
+Toán,1,Bài 3: Biểu thức có chứa một chữ (T1)
+Tiếng Việt,1,Bài 1B: Thương người, người thương (T1)
+Tiếng Việt,1,Bài 1B: Thương người, người thương (T2)
+Toán,1,Bài 3: Biểu thức có chứa một chữ (T2)
+Tiếng Việt,1,Bài 1B: Thương người, người thương (T3)
+Tiếng Việt,1,Bài 1C: Làm người nhân ái (T1)
+Địa Lí,1,Bài 1: Môn Lịch sử và Địa lí (T2)
+Tiếng Việt,1,Bài 1C: Làm người nhân ái (T2)
+Toán,1,Bài 4: Các số có sáu chữ số (T1)
+Khoa học,1,Bài 2: Cơ thể người trao đổi chất ntn?(T1)
+GDTT,1,]n
